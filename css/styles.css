@@ -178,7 +178,7 @@ button {
     position: absolute;
     left: 0;
     bottom: 0;
-    border: 2px solid #404BBF; 
+    border-radius: 2px; 
 }
 
 .menu-link:hover,
